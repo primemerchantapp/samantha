@@ -37,7 +37,7 @@ For Tagalog word pronunciation: Always check the live pronunciation reference fi
     }
   },
   VOICE: {
-    NAME: "Fenrir", // Options: Puck, Charon, Kore, Fenrir, Aoede
+    NAME: "Kore", // Options: Puck, Charon, Kore, Fenrir, Aoede
   },
   AUDIO: {
     INPUT_SAMPLE_RATE: 16000,
